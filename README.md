@@ -1,5 +1,5 @@
 # kafka-reassign-partitions-json-maker
-this is a script that generates a json to perform a manual kafka reassign partitions
+this script generates a json output to perform a manual kafka reassign partitions with kafka-topics.sh
 
 
 usage:
